@@ -1,0 +1,8 @@
+node_modules
+.publish
+.lock
+.tmp
+app.yaml
+.npmignore
+
+dist/
